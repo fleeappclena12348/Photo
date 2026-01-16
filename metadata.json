@@ -1,0 +1,7 @@
+{
+  "name": "背景削除ツール Pro",
+  "description": "Gemini 2.5 AIを活用した、プロ仕様の背景削除ツールです。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
